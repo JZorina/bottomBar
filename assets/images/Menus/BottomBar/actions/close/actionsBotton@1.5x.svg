@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="53px" height="52px" viewBox="0 0 53 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>D2ACC705-5A31-43A3-BD89-9107BAC3F37F@1.5x</title>
+    <defs>
+        <ellipse id="path-1" cx="17.9666441" cy="17.9421222" rx="17.9666441" ry="17.9421222"></ellipse>
+        <filter x="-33.4%" y="-33.4%" width="166.8%" height="166.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0875879994   0 0 0 0 0.507957767   0 0 0 0 0.564764493  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="עמוד-פעולות--חו״ל-" transform="translate(-137.000000, -497.000000)">
+            <g id="Down-menu-open" transform="translate(0.000000, 505.000000)">
+                <g id="Group-41" transform="translate(145.918417, -0.000000)">
+                    <g id="Oval-Copy">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#80DAE2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Group-38" transform="translate(10.067119, 10.042597)" stroke="#FFFFFF" stroke-linejoin="round">
+                        <g id="Group" transform="translate(7.899526, 7.899526) rotate(-45.000000) translate(-7.899526, -7.899526) translate(2.309903, 2.317532)">
+                            <path d="M5.27908803,-8.8817842e-16 L5.27908803,11.1639871 L5.27908803,-8.8817842e-16 Z" id="Path-Copy-30"></path>
+                            <path d="M11.1792452,5.89210432 L-1.04805054e-13,5.89210432 L11.1792452,5.89210432 Z" id="Path-Copy-31"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
